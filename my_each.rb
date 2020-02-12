@@ -6,6 +6,7 @@ new_array << yield (array[i])
 i = i + 1 
   # code here
 end
+end
 new_array
 end
  
