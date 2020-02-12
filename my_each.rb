@@ -9,5 +9,5 @@ end
  
  array = []
  my_each(array) do |words|
-   puts word
+   return word
  end
