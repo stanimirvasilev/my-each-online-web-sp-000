@@ -5,5 +5,6 @@ yield (array[i])
 i = i + 1 
   # code here
 end
+array
 end
  
