@@ -7,7 +7,7 @@ yield([0])
 end
 end
  
- array = []
- my_each(array) do |words|
+
+ my_each(words) do |word|
    return word
  end
