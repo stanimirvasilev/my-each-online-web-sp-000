@@ -7,6 +7,7 @@ yield
 end
 end
  
- my_each(words) do |words|
+ array = []
+ my_each(array) do |words|
    puts word
  end
