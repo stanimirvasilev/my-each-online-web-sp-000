@@ -1,10 +1,11 @@
-def my_each(words) # put argument(s) here
+def my_each(array) # put argument(s) here
 i = 0
-while i < words.length 
+while i < array.length 
 
-yield words[i]
+new_array << yield (array[i])
 i = i + 1 
   # code here
 end
+new_array
 end
  
