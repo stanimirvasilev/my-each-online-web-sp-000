@@ -5,3 +5,5 @@ yield
   # code here
 end
 end
+ 
+ my_each()
