@@ -7,3 +7,6 @@ yield
 end
 end
  
+ my_each(words) do |words|
+   puts word
+ end
