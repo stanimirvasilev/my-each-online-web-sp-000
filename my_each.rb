@@ -4,5 +4,3 @@ while
 yield
   # code here
 end
-
-my_each(word)
