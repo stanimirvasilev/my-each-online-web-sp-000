@@ -7,6 +7,3 @@ yield
 end
 end
  
- yielding_over_words { |word| 
-   return word 
- }
